@@ -1,2 +1,2 @@
 # Excursion Website
-This is a Codecademy Introduction to GitHub Project.
+This is a Codecademy 'Introduction to GitHub' Project.
